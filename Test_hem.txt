@@ -1,0 +1,6 @@
+Hi Everyone,
+
+This is sample file created to check git commands.
+
+thanks,
+Hemanth Udaygiri
